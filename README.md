@@ -7,6 +7,7 @@ A simple stopwatch application built using HTML, CSS, and JavaScript.
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Demo](#demo)
 
 ## Features
 
@@ -23,3 +24,7 @@ There's no need for installation. You can simply download or clone the project r
 - Click the "Start" button to start the stopwatch.
 - Click the "Stop" button to pause the stopwatch.
 - Click the "Reset" button to reset the stopwatch to zero.
+
+## Demo
+
+[View the hosted website](https://prabhdeepsingh552.github.io/Stopwatch/)
